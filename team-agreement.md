@@ -1,6 +1,6 @@
 # Team Agreement
 
-**Team:** Ty Aponte, Jonathan Straib, Marco Villafana, Martin Hansen, Brandon Perard
+**Team:** Ty Aponte, Jonathan Straib, Marco Villafana, Martin Hansen, Brandon Perard  
 **Org:** Learnhub
 
 ## Cooperation Plan
